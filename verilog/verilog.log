@@ -1,0 +1,49 @@
+OSS_CVC_7.00b-x86_64-rhel6x of 07/07/14 (Linux-elf).
+Copyright (c) 1991-2014 Tachyon Design Automation Corp.
+  All Rights reserved.  Licensed software subject to prohibitions and
+  restrictions.  See OSS CVC artistic license included with release.
+Today is Mon Dec  3 22:02:37 2018.
+Elaborating source file "tb_data_path.v"
+Elaborating source file "ctrl.v"
+Elaborating source file "gf2m_alu.v"
+Elaborating source file "gf2m_mul.v"
+Elaborating source file "gf2m_div.v"
+Highest level modules:
+tb_data_path
+
+test_mem_ops pass
+add 0, 0, 0
+add 0, 0, 1
+add 7, 2, 1
+test_alu_add pass
+shl 5, 5
+shl 4, 5
+shl 5, 5
+shl 5, 5
+shl 5, 5
+shl 5, 5
+test_alu_shl pass
+test_mul_plain pass
+mul_mod 2, 0, 1
+mul_mod 2, 0, 1
+mul_mod 2, 0, 1
+mul_mod 2, 0, 1
+test_mul_mod pass
+div_mod 2, 0, 1
+div_mod 2, 0, 1
+div_mod 2, 0, 1
+div_mod 2, 0, 1
+test_div_mod pass
+test 0
+div_mod 2, 1, 0
+mul_mod 1, 0, 0
+add 2, 2, 0
+mul_mod 0, 2, 2
+add 0, 0, 2
+mul_mod 2, 2, 0
+add 1, 1, 2
+add 1, 1, 0
+test_point_double pass
+sim pass
+Halted at location **tb_data_path.v(902) time 29010000 ps from call to $finish.
+  There were 0 error(s), 0 warning(s), and 145 inform(s).

@@ -1,0 +1,100 @@
+[*]
+[*] GTKWave Analyzer v3.3.66 (w)1999-2015 BSI
+[*] Sun Dec  2 19:17:54 2018
+[*]
+[dumpfile] "/home/user/ownCloud/dev/ECC/verilog/tb_data_path.fst"
+[dumpfile_mtime] "Sun Dec  2 19:16:28 2018"
+[dumpfile_size] 70452
+[savefile] "/home/user/ownCloud/dev/ECC/verilog/data_path.gtkw"
+[timestart] 0
+[size] 1855 1056
+[pos] -1 -1
+*-21.561728 12530000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_data_path.
+[treeopen] tb_data_path.u_data_path.
+[treeopen] tb_data_path.u_data_path.u_g2m_mul.
+[sst_width] 225
+[signals_width] 775
+[sst_expanded] 1
+[sst_vpaned_height] 321
+@28
+tb_data_path.start
+tb_data_path.run
+tb_data_path.early_done
+tb_data_path.done_reg
+tb_data_path.done
+@22
+tb_data_path.u_data_path.dat_addr_in[6:0]
+tb_data_path.u_data_path.dat_addr_out[6:0]
+tb_data_path.u_data_path.dat_in[31:0]
+tb_data_path.u_data_path.dat_out[31:0]
+@28
+tb_data_path.u_data_path.gpr_rd_addr[2:0]
+tb_data_path.u_data_path.gpr_wr_addr[2:0]
+@22
+tb_data_path.u_data_path.irreducible_poly[255:0]
+tb_data_path.u_data_path.irreducible_poly_msb[255:0]
+@28
+tb_data_path.u_data_path.reset
+tb_data_path.u_data_path.clk
+tb_data_path.u_data_path.wr
+tb_data_path.u_data_path.mem_wr
+tb_data_path.u_data_path.mem_ld_poly_msb
+tb_data_path.u_data_path.mem_ld_poly
+tb_data_path.u_data_path.alu_add
+tb_data_path.u_data_path.alu_shl
+tb_data_path.u_data_path.alu_sto
+tb_data_path.u_data_path.mul_mod
+tb_data_path.u_data_path.mul_plain
+tb_data_path.u_data_path.mul_stos
+tb_data_path.u_data_path.mul_stox
+tb_data_path.u_data_path.mul_clear
+tb_data_path.u_data_path.div_stox
+@29
+tb_data_path.u_data_path.div_stoy
+@28
+tb_data_path.u_data_path.div_mod
+tb_data_path.u_data_path.mul_to_gpr
+tb_data_path.u_data_path.alu_to_gpr
+tb_data_path.u_data_path.mem_to_gpr
+tb_data_path.u_data_path.start
+tb_data_path.u_data_path.mem_run
+tb_data_path.u_data_path.alu_run
+tb_data_path.u_data_path.mul_run
+tb_data_path.u_data_path.u_gf2m_div.run_done
+tb_data_path.u_data_path.u_gf2m_div.end_condition
+tb_data_path.u_data_path.div_done
+tb_data_path.u_data_path.div_run
+tb_data_path.u_data_path.run
+tb_data_path.u_data_path.alu_done
+@800200
+-alu
+@28
+tb_data_path.u_data_path.u_g2m_alu.sto
+tb_data_path.u_data_path.u_g2m_alu.clk
+tb_data_path.u_data_path.u_g2m_alu.reset
+tb_data_path.u_data_path.u_g2m_alu.run
+tb_data_path.u_data_path.u_g2m_alu.done
+@1000200
+-alu
+@28
+tb_data_path.u_data_path.gpr_wr_done
+tb_data_path.u_data_path.mul_done
+tb_data_path.u_data_path.mem_done
+tb_data_path.u_data_path.done
+tb_data_path.u_data_path.mul_dbus_sel
+tb_data_path.u_data_path.alu_early_mz
+tb_data_path.u_data_path.alu_eq
+tb_data_path.u_data_path.alu_mz
+@22
+tb_data_path.u_data_path.sbus[255:0]
+tb_data_path.u_data_path.dbus[255:0]
+tb_data_path.u_data_path.alu_out[255:0]
+tb_data_path.u_data_path.mul_out[255:0]
+tb_data_path.u_data_path.step[7:0]
+tb_data_path.u_data_path.u_g2m_mul.next_s[255:0]
+tb_data_path.u_data_path.u_g2m_mul.mul_step.next_s[255:0]
+tb_data_path.u_data_path.u_g2m_mul.mul_step.next_out[511:0]
+tb_data_path.u_data_path.u_g2m_mul.out[511:0]
+[pattern_trace] 1
+[pattern_trace] 0
