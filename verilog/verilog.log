@@ -2,7 +2,7 @@ OSS_CVC_7.00b-x86_64-rhel6x of 07/07/14 (Linux-elf).
 Copyright (c) 1991-2014 Tachyon Design Automation Corp.
   All Rights reserved.  Licensed software subject to prohibitions and
   restrictions.  See OSS CVC artistic license included with release.
-Today is Mon Dec  3 22:02:37 2018.
+Today is Fri Nov 22 01:36:20 2019.
 Elaborating source file "tb_data_path.v"
 Elaborating source file "ctrl.v"
 Elaborating source file "gf2m_alu.v"
